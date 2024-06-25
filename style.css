@@ -1,0 +1,28 @@
+body {
+  --font-karstarr: 'Karstar';
+  --font-special-elite: 'Special Elite';
+  --font-post-no-bills: 'Post No Bills';
+  --font-cabin: 'Cabin';
+
+  --color-white: #FFFFFF;
+  --color-black: #000000;
+  --color-blue-grey: #2A383D;
+  --color-highlight-orange: #FF8A00;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+#map {
+  width: 500px;
+  height: 500px;
+}
+
+.hello-world {
+  /* Delete Me, I am a showcase dummy */
+  color: var(--color-blue-grey);
+  font-family: var(--font-post-no-bills);
+  font-size: 50px;
+  letter-spacing: .025em; /* 0.025em entspricht 2,5% */
+}

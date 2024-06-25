@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'Cabin';
+  src: url('./Cabin/static/Cabin-Regular.ttf') format('truetype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Cabin';
+  src: url('./Cabin/static/Cabin-SemiBold.ttf') format('truetype');
+  font-weight: semibold;
+}
+
+@font-face {
+  font-family: 'Karstar';
+  src: url('./Karstar\ Free.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Post No Bills';
+  src: url('./post-no-bills/postnobillscolombo-extrabold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Special Elite';
+  src: url('./Special_Elite/SpecialElite-Regular.ttf') format('truetype');
+}

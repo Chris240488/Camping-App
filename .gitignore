@@ -1,0 +1,17 @@
+## General
+.env
+
+## IDE related files
+
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+## Mac specific
+.DS_Store
+**/.DS_Store
